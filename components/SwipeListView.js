@@ -7,13 +7,13 @@ import PropTypes from 'prop-types';
 import {
 	FlatList,
 	SectionList,
-	ListView,
 	Platform,
 	Text,
 	ViewPropTypes,
 	View,
 } from 'react-native';
 
+import ListView from 'deprecated-react-native-listview';
 import SwipeRow from './SwipeRow';
 
 /**
